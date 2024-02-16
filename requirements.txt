@@ -1,0 +1,4 @@
+librosa
+openai
+soundfile
+yt_dlp
